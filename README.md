@@ -34,3 +34,190 @@ The output is stored in *Dates_list.txt* file. You can set how dates are separat
      file.write(' && '.join(dl))
     
 As you can see, you can specify exactly what you need.
+
+## Output file
+
+Date in new line:
+ 
+    17/Sep/24
+    17-Sep-24
+    17.Sep.24
+    17 Sep 24
+    17\Sep\24
+    24/Sep/17
+    24-Sep-17
+    24.Sep.17
+    24 Sep 17
+    24\Sep\17
+    Sep/24/17
+    Sep-24-17
+    Sep.24.17
+    Sep 24 17
+    Sep\24\17
+    17/September/24
+    17-September-24
+    17.September.24
+    17 September 24
+    17\September\24
+    24/September/17
+    24-September-17
+    24.September.17
+    24 September 17
+    24\September\17
+    September/24/17
+    September-24-17
+    September.24.17
+    September 24 17
+    September\24\17
+    17/09/24
+    17-09-24
+    17.09.24
+    17 09 24
+    17\09\24
+    24/09/17
+    24-09-17
+    24.09.17
+    24 09 17
+    24\09\17
+    09/24/17
+    09-24-17
+    09.24.17
+    09 24 17
+    09\24\17
+    2017/Sep/24
+    2017-Sep-24
+    2017.Sep.24
+    2017 Sep 24
+    2017\Sep\24
+    24/Sep/2017
+    24-Sep-2017
+    24.Sep.2017
+    24 Sep 2017
+    24\Sep\2017
+    Sep/24/2017
+    Sep-24-2017
+    Sep.24.2017
+    Sep 24 2017
+    Sep\24\2017
+    2017/September/24
+    2017-September-24
+    2017.September.24
+    2017 September 24
+    2017\September\24
+    24/September/2017
+    24-September-2017
+    24.September.2017
+    24 September 2017
+    24\September\2017
+    September/24/2017
+    September-24-2017
+    September.24.2017
+    September 24 2017
+    September\24\2017
+    2017/09/24
+    2017-09-24
+    2017.09.24
+    2017 09 24
+    2017\09\24
+    24/09/2017
+    24-09-2017
+    24.09.2017
+    24 09 2017
+    24\09\2017
+    09/24/2017
+    09-24-2017
+    09.24.2017
+    09 24 2017
+    09\24\2017
+    17/Oct/01
+    17-Oct-01
+    17.Oct.01
+    17 Oct 01
+    17\Oct\01
+    01/Oct/17
+    01-Oct-17
+    01.Oct.17
+    01 Oct 17
+    01\Oct\17
+    Oct/01/17
+    Oct-01-17
+    Oct.01.17
+    Oct 01 17
+    Oct\01\17
+    17/October/01
+    17-October-01
+    17.October.01
+    17 October 01
+    17\October\01
+    01/October/17
+    01-October-17
+    01.October.17
+    01 October 17
+    01\October\17
+    October/01/17
+    October-01-17
+    October.01.17
+    October 01 17
+    October\01\17
+    17/10/01
+    17-10-01
+    17.10.01
+    17 10 01
+    17\10\01
+    01/10/17
+    01-10-17
+    01.10.17
+    01 10 17
+    01\10\17
+    10/01/17
+    10-01-17
+    10.01.17
+    10 01 17
+    10\01\17
+    2017/Oct/01
+    2017-Oct-01
+    2017.Oct.01
+    2017 Oct 01
+    2017\Oct\01
+    01/Oct/2017
+    01-Oct-2017
+    01.Oct.2017
+    01 Oct 2017
+    01\Oct\2017
+    Oct/01/2017
+    Oct-01-2017
+    Oct.01.2017
+    Oct 01 2017
+    Oct\01\2017
+    2017/October/01
+    2017-October-01
+    2017.October.01
+    2017 October 01
+    2017\October\01
+    01/October/2017
+    01-October-2017
+    01.October.2017
+    01 October 2017
+    01\October\2017
+    October/01/2017
+    October-01-2017
+    October.01.2017
+    October 01 2017
+    October\01\2017
+    2017/10/01
+    2017-10-01
+    2017.10.01
+    2017 10 01
+    2017\10\01
+    01/10/2017
+    01-10-2017
+    01.10.2017
+    01 10 2017
+    01\10\2017
+    10/01/2017
+    10-01-2017
+    10.01.2017
+    10 01 2017
+    10\01\2017
+
+    
