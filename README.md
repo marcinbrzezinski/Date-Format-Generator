@@ -2,11 +2,11 @@
 
 ## Info
 
-This simple script generates a list of dates in different date formats. You can specify a list of dates and generate combinations of them.
+This simple script generates a list of dates in different formats. You can specify a list of dates and generate combinations of them.
 
 ## Example
 
- I defined a list with two dates: **24/09/2017** and 01/09/2017
+ I defined a list with two dates: **24/09/2017** and **01/09/2017**
     
     dates = [(2017, 9, 24), (2017, 10, 1)]
 
